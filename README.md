@@ -1,4 +1,4 @@
-Designing includes- planning, sketching, and the post launching 
+Designing includes- planning, sketching (idea generation leads to sketcha and vice-versa, add detail and refine), and the post launching 
 (Graphic Designer-story teller, visuals),
 (UX- user experience, users with the best possible experience, understanding our customer),
 (Goal Conversion- motivate the visitors of the mobile app or any design)
